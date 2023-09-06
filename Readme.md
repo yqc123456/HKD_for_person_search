@@ -21,15 +21,16 @@ objective in detection and Re-ID subtasks.Finally, our method gain sota-of-the-a
 | G2APS     | SeqNet     | 33.96            | 44.52            | -                                                                         | 
 |           | SeqNet+HKD | 39.40(+5.44)     | 49.12(+4.60)     | [model](https://pan.baidu.com/s/1uC7ppuzzEF-7nu6t0ZR3cw?pwd=1357提取码：1357) |
 |           | COAT       | 40.32            | 50.53            | -                                                                         |
-|           | COAT+HKD   | **41.41(+1.09)** | **51.94(+1.41)** | [model](https://pan.baidu.com/s/1zHrI4p4a_OVidmvKq_a45g?pwd=1357提取码：1357)|
+|           | COAT+HKD   | **41.41(+1.09)** | **51.94(+1.41)** | [model](链接：https://pan.baidu.com/s/1zHrI4p4a_OVidmvKq_a45g?pwd=1357提取码：1357)|
 | CUHK-SYSU | SeqNet     | 93.8             | 94.6             | -                                                                         | 
-|           | SeqNet+HKD | **95.25(+1.45)** | **96.10(+1.5)**  | [model](https://pan.baidu.com/s/1uC7ppuzzEF-7nu6t0ZR3cw?pwd=1357提取码：1357)                                                                        | 
+|           | SeqNet+HKD | **95.25(+1.45)** | **96.10(+1.5)**  | [model](https://pan.baidu.com/s/1uC7ppuzzEF-7nu6t0ZR3cw?pwd=1357提取码：1357)| 
 |           | COAT*      | 93.68            | 94.1             | -                                                                         |
-|           | COAT+HKD   | 93.86(+0.18)     | 94.76(+0.66)     | [model](https://pan.baidu.com/s/1zHrI4p4a_OVidmvKq_a45g?pwd=1357提取码：1357)                                                                          | 
+|           | COAT+HKD   | 93.86(+0.18)     | 94.76(+0.66)     | [model](链接：https://pan.baidu.com/s/1zHrI4p4a_OVidmvKq_a45g?pwd=1357提取码：1357)| 
 | PRW       | SeqNet     | 46.7             | 83.4             | -                                                                         |
-|           | SeqNet+HKD | 51.49(+4.79)     | 85.12(+1.72)     | [model](https://pan.baidu.com/s/1uC7ppuzzEF-7nu6t0ZR3cw?pwd=1357提取码：1357)                                                                          |
+|           | SeqNet+HKD | 51.49(+4.79)     | 85.12(+1.72)     | [model](https://pan.baidu.com/s/1uC7ppuzzEF-7nu6t0ZR3cw?pwd=1357提取码：1357)|
 |           | COAT*      | 52.45            | 86               | -                                                                         |
-|           | COAT+HKD   | **53.49(+1.04)** | **86.63(+0.63)** | [model](https://pan.baidu.com/s/1zHrI4p4a_OVidmvKq_a45g?pwd=1357提取码：1357)                                                                          |
+|           | COAT+HKD   | **53.49(+1.04)** | **86.63(+0.63)** | [model](链接：https://pan.baidu.com/s/1zHrI4p4a_OVidmvKq_a45g?pwd=1357提取码：1357)|
+
 note:* indicates the experimental results we reproduced.
 
 **Fig.3 Evaluation of two test samples.**

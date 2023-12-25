@@ -39,3 +39,16 @@ note:* indicates the experimental results we reproduced.
 
 ## Training and Testing
 [Running_instruction](Running_instruction.md)
+
+## Citation
+If you find the code useful, please consider citing our paper:
+
+```bibtex
+@inproceedings{zhang2023ground,
+	title={Ground-to-Aerial Person Search: Benchmark Dataset and Approach},
+	author={Zhang, Shizhou and Yang, Qingchun and Cheng, De and Xing, Yinghui and Liang, Guoqiang and Wang, Peng and Zhang, Yanning},
+	booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+	pages={789--799},
+	year={2023}
+}
+```
